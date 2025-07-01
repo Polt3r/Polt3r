@@ -1,16 +1,31 @@
-## Hi there 👋
+# Enzo Tavares 🚀
 
-<!--
-**Polt3r/Polt3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Enzo’s Banner](path/to/banner.png)
 
-Here are some ideas to get you started:
+## Sobre mim
+Engenheiro de software com paixão por soluções robustas e elegantes. Valorizei a tradição técnica desde os primeiros passos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 Tecnologias: Java • Python • Docker • AWS  
+- 💼 Atuação: Backend, DevOps, automação
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoTavares&show_icons=true)
+
+## 🏆 Destaques
+- ⭐ Projeto 1 – Biblioteca de automação X
+- 🚀 Projeto 2 – Ferramenta Y de integração contínua
+
+## ⚙️ Estrutura
+1. Instalação  
+2. Uso  
+3. Exemplos  
+4. API  
+5. Testes  
+6. Contribuições  
+7. Licença (MIT)
+
+```bash
+git clone https://github.com/EnzoTavares/EnzoTavares
+cd EnzoTavares
+npm install
+npm test

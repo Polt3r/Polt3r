@@ -1,31 +1,25 @@
-# Enzo Tavares 🚀
+## Olá, meu nome é Enzo Tavares 🤵🏻
 
-![Enzo’s Banner](path/to/banner.png)
+Pensando em algo belo, incrível e com muito potencial… meus pais me criaram.<br />
+Hoje, faço o mesmo com ideias como a sua.
 
-## Sobre mim
-Engenheiro de software com paixão por soluções robustas e elegantes. Valorizei a tradição técnica desde os primeiros passos.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polt3r&theme=ambient_gradient&show_icons=true)
 
-- 🛠 Tecnologias: Java • Python • Docker • AWS  
-- 💼 Atuação: Backend, DevOps, automação
+<div style="display: inline_block"><br>
+  <img align="center" alt="Enzo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Enzo-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Enzo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Enzo-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoTavares&show_icons=true)
-
-## 🏆 Destaques
-- ⭐ Projeto 1 – Biblioteca de automação X
-- 🚀 Projeto 2 – Ferramenta Y de integração contínua
-
-## ⚙️ Estrutura
-1. Instalação  
-2. Uso  
-3. Exemplos  
-4. API  
-5. Testes  
-6. Contribuições  
-7. Licença (MIT)
-
-```bash
-git clone https://github.com/EnzoTavares/EnzoTavares
-cd EnzoTavares
-npm install
-npm test
+  ##
+<div> 
+  <a href="https://instagram.com/enzo.tavares.p" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:enzo.polter.tavares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/enzo-tavares-91961a23b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://wa.me//5511958134237" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%280013?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
+</div>

@@ -4,6 +4,12 @@ Pensando em algo belo, incrível e com muito potencial… meus pais me criaram.<
 Hoje, faço o mesmo com ideias como a sua.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polt3r&theme=ambient_gradient&show&locale=pt-br&custom_title=Enzo%20%Tavares%20%Status&show_icons=true)
+<!-- 
+<div>
+  <a href="https://github.com/Polt3r">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polt3r&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Enzo-n8n" height="30" width="40" src="https://www.prompthacks.com.br/resource/n8n-color.svg" />
